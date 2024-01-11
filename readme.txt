@@ -6,8 +6,3 @@ functions to handle these operations, including adding, deleting, and updating s
 these views to specific URLs. The project structure includes the enroll app, templates, static files for Bootstrap styling, and 
 a forms.py file defining a form for student registration based on the User model defined in models.py. Overall, this project serves 
 as a foundation for managing student information in a Django web application.
-
-
-
-
-
